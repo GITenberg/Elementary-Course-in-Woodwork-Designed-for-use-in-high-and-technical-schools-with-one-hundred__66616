@@ -1,0 +1,25 @@
+_repo: Elementary-Course-in-Woodwork-Designed-for-use-in-high-and-technical-schools-with-one-hundred__66616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ross, George Alexander
+    gutenberg_agent_id: '53883'
+    url: http://www.gutenberg.org/2009/agents/53883
+description: ''
+gutenberg_issued: '2021-10-26'
+identifiers:
+  gutenberg: '66616'
+  lccn: '01017555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Woodwork (Manual training)'
+- GITenberg
+title: 'Elementary Course in Woodwork
+
+  Designed for use in high and technical schools, with one hundred and thirty-four
+  illustrations: First Edition'
+url: http://www.gutenberg.org/ebooks/66616
