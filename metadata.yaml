@@ -1,11 +1,16 @@
 _repo: Elementary-Course-in-Woodwork-Designed-for-use-in-high-and-technical-schools-with-one-hundred__66616
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66616-h/images/cover.jpg
 creator:
   author:
     agent_name: Ross, George Alexander
     gutenberg_agent_id: '53883'
     url: http://www.gutenberg.org/2009/agents/53883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66616#Elementary-Course-in-Woodwork-Designed-for-use-in-high-and-technical-schools-with-one-hundred_
 gutenberg_issued: '2021-10-26'
 identifiers:
   gutenberg: '66616'
